@@ -1,0 +1,18 @@
+- https://github.com/flipboxstudio/lumen-generator
+- https://github.com/maxsky/Lumen-AppKey-Generator
+- https://github.com/FakerPHP/Faker
+- https://github.com/fzaninotto/Faker
+
+https://morioh.com/p/2ada7f3d4bfb
+https://scotch.io/tutorials/generate-dummy-laravel-data-with-model-factories
+https://laravel.com/docs/8.x/database-testing#generating-factories
+
+
+https://www.codecheef.org/article/avoid-pivot-table-and-use-json-column-in-laravel
+https://www.codecheef.org/article/laravel-8-login-with-custom-guard-example
+
+https://www.codecheef.org/article/laravel-6-building-a-rest-api-with-lumen
+https://www.codecheef.org/article/vue-laravel-crud-example-with-vue-router-and-sweet-alert
+https://www.codecheef.org/article/laravel-6-rest-api-with-passport-tutorial-with-ecommerce-project
+https://www.codecheef.org/article/user-roles-and-permissions-tutorial-in-laravel-without-packages
+https://spatie.be/docs/laravel-permission/v3/installation-lumen
